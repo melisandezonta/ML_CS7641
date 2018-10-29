@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Four" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="Four"/>
+			<item value="LetterOptimization"/>
+			<item value="LetterTest"/>
+			<item value="FourPeaksOptimization"/>
+			<item value="FourPeaksProblem"/>
+			<item value="ContinuousPeaks"/>
+			<item value="measure"/>
+			<item value="inputlayer"/>
+		</list>
+		<list key="replacehistory">
+			<item value="DiabetesOptimization"/>
+			<item value="DiabetesTest"/>
+			<item value="ContinuousPeaksOptimization"/>
+			<item value="ContinuousPeaksProblem"/>
+			<item value="MIMIC"/>
+			<item value="SA"/>
+			<item value="50000"/>
+			<item value="100000"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+		<item value="409" key="DIALOG_HEIGHT"/>
+		<item value="47" key="DIALOG_X_ORIGIN"/>
+		<item value="139" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
